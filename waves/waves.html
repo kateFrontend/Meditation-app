@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waves</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="waves.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:,"> 
+</head>
+<body>
+    
+<div class="container">
+    <div id="container-countdown">
+        <p id="countdown">Relax</p>
+</div>
+
+    <div class="pause">
+        <i class="<i fa-solid fa-play" id="play"></i>
+        <i class="fa-solid fa-pause" id="stop"></i>
+    </div>
+
+    <div class="home">
+        <a href="/index.html"><i class="fa-solid fa-house" id="home"></i></a>
+    </div>
+
+</div>
+
+    <audio id="player" loop="loop"> 
+        <source src="https://cdn.glitch.com/eeaf6ebc-3ee8-45cf-aa54-1394e24c3353%2FTunePocket-Soft-Ocean-Waves-Meditation-5-Breaths-Per-Min-5-Min-Preview.mp3?v=1628649760087" type="audio/mp3">
+        </audio>
+
+    <video  loop="loop" muted defaultMuted playsinline id="myVideo">
+        <source src="/video/video1.mp4" type="video/mp4">
+        </video> 
+
+        <script src="waves.js"></script>
+</body>
+</html>
