@@ -5,8 +5,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p>JavaScript Weather application with API from https://openweathermap.org/ and unsplash API for changing pictures.</p>
-<p>Weather application is an excellent project which helps to understand the core basics of the DOM and teaches how to use fetch API, to call and get data from a third-party service.</p>
+<p>JavaScript Meditation application where an user can choose type of relaxation.</p>
+<p>just close your eyes and enjoy the selected sounds.</p>
 
   <p>
  <a href="https://meditation-appli.glitch.me/">View Demo Here</a>
@@ -19,10 +19,10 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<p>You need to create an account here https://openweathermap.org/ and get your API KEY.</p>
-<p>In this project you will be able to know the temperature, sky condition, wind speed, humidity etc. When you input the name of any city in the input line, you will get all the information you need about the weather conditions in your city.</p>
-<p>Using unsplash API, it finds a random photo of the searching city.</p>
+<p>The Meditation App is a simple project developed using JavaScript, CSS and HTML.</p>
+<p>In this project you will be able to work with audio and video tags in html, create a countdown timer, put it on pause and restart.</p>
+<p>The user can meditate and relax by enjoying the peaceful sound of a waves, rain or nature. </p>
 <p>Application is responsive for all mobile devices.</p>
-<p>Inspired by Jonah Lawrence tutorial.</p>
+
 
 Project Link: https://github.com/kateFrontend/Weather-app
