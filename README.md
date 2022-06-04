@@ -5,8 +5,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p>JavaScript Meditation application where an user can choose type of relaxation.</p>
-<p>just close your eyes and enjoy the selected sounds.</p>
+<p>JavaScript Meditation application where an user can choose his type of relaxation.</p>
+<p>Just close your eyes and enjoy the selected sounds.</p>
 
   <p>
  <a href="https://meditation-appli.glitch.me/">View Demo Here</a>
@@ -25,4 +25,4 @@
 <p>Application is responsive for all mobile devices.</p>
 
 
-Project Link: https://github.com/kateFrontend/Weather-app
+Project Link: https://github.com/kateFrontend/Meditation-app
