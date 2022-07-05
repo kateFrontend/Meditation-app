@@ -1,6 +1,6 @@
 <div>
   <h1>Meditation app</h1> 
-  <img src="cover.JPG" alt="Meditation app" width="auto">
+  <img src="05!!!.JPG" alt="Meditation app" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
